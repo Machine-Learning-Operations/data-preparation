@@ -1,1 +1,1 @@
-In this repo we will look at the distinct elements of Data Acquisition and Data Preprocessing.
+In this repo we will look at Data Preparation including Data Acquisition and Data Preprocessing.
